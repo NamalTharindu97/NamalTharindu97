@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aruna</h1>
-<h3 align="center">I'm a 23 years old Software Engineering Undergraduate from Sri Lanka..</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Namal</h1>
+<h3 align="center">I'm a 25 years old Software Engineering Undergraduate from Sri Lanka..</h3>
 
 
 
@@ -33,15 +33,15 @@
 
 <p align="center">
     <a href="https://github.com/ArunaAP/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aruna's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunaAP&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Namal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NamalTharindu97&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/ArunaAP/github-readme-stats"><img alt="Aruna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArunaAP&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ArunaAP/github-readme-stats"><img alt="Aruna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunaAP&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/NamalTharindu97/github-readme-stats"><img alt="Namal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NamalTharindu97&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/NamalTharindu97/github-readme-stats"><img alt="Aruna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamalTharindu97&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -49,7 +49,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/ArunaAP/github-readme-activity-graph"><img alt="Aruna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ArunaAP&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/NamalTharindu97/github-readme-activity-graph"><img alt="Namal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NamalTharindu97&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -57,15 +57,15 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/aruna-priyankara-93ba21216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/priyankara.wijesinghe.9"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/priyankara_wijesinghe/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC5V0bN4LiEL9S8NHCBCpR3w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ArunaAP">
+    <img src="https://komarev.com/ghpvc/?username=NamalTharindu97">
 </a>
-<a href="https://github.com/ArunaAP?tab=followers"><img src="https://img.shields.io/github/followers/ArunaAP?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/NamalTharindu97?tab=followers"><img src="https://img.shields.io/github/followers/NamalTharindu97?label=Followers&style=social" alt="GitHub Badge"></a>
