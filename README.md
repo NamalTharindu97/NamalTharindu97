@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Namal</h1>
-<h3 align="center">I'm a 25 years old Software Engineering Undergraduate from Sri Lanka..</h3>
+<h3 align="center">I'm a 25 years old Software Engineering Undergraduate in SLIIT</h3>
 
 
 
@@ -32,7 +32,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/ArunaAP/github-readme-streak-stats">
+    <a href="https://github.com/NamalTharindu97/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Namal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NamalTharindu97&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -57,7 +57,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/namal-tharindu-b87597216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
@@ -66,6 +66,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NamalTharindu97">
+    <img src="https://komarev.com/ghpvc/?username=NamalTharindu97
+">
 </a>
 <a href="https://github.com/NamalTharindu97?tab=followers"><img src="https://img.shields.io/github/followers/NamalTharindu97?label=Followers&style=social" alt="GitHub Badge"></a>
